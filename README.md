@@ -4,10 +4,13 @@
 
 This is a complete MERN Project which emphasizes on the following functionalities:
 
-1.Designed and deployed a secure currency transfer system, allowing seamless transactions among users
-2.Learnt how to implement Mongoose transactions for maintaining robust data consistency in database operations
+1.Designed and deployed a secure currency transfer system, allowing seamless transactions among users.
+
+2.Learnt how to implement Mongoose transactions for maintaining robust data consistency in database operations.
+
 3.Utilized Express routing to enable efficient navigation across various pages. Utilized JSON Web Tokens (JWT)to
 guarantee end-to-end user information integrity, enhancing the security of user interactions and data transactions.
+
 4.Designed and implemented a secure and efficient login and signup mechanism, ensuring a seamless user experience.
 
 # Getting Started with Create React App
